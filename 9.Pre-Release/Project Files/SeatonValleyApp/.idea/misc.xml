@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.activities.ContactActivity map_view" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.components.places.DisplayPlaceDetails mapView" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.components.places.DisplayPlaceDetails detector" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.components.web.DisplayPostDetails addEvent" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.DisplayPostDetails addEvent" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.components.basic.Drawer temp" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Exerpt rendered" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.adapters.LocationsRecyclerViewAdapter.ImageTypeViewHolder currentPosition" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Post link" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Post excerpt" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Post title" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Post id" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.data.posts.Title rendered" />
+      <entry_point TYPE="field" FQNAME="com.ncl.team20.seatonvalley.activities.TwitterActivity adapter" />
+    </entry_points>
+    <pattern value="com.ncl.team20.seatonvalley.activities.ContactActivity" method="onMapReady" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.ContactActivity" />
+    <pattern value="com.ncl.team20.seatonvalley.components.places.DisplayPlaceDetails" />
+    <pattern value="com.ncl.team20.seatonvalley.components.web.DisplayPostDetails" />
+    <pattern value="com.ncl.team20.seatonvalley.DisplayPostDetails" />
+    <pattern value="com.ncl.team20.seatonvalley.components.basic.Drawer" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.EventsActivityTest" method="clickEventCard_displaysWebView" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.EventsActivityTest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.posts.Exerpt" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Geometry" method="setViewport" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Geometry" method="getViewport" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Geometry" method="setLocation" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Geometry" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Location" method="setLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Location" method="getLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Location" method="setLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Location" method="getLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Location" />
+    <pattern value="com.ncl.team20.seatonvalley.adapters.LocationsRecyclerViewAdapter.ImageTypeViewHolder" />
+    <pattern value="com.ncl.team20.seatonvalley.adapters.LocationsRecyclerViewAdapter" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.ModelPlace" method="ModelPlace" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.ModelPlace" />
+    <pattern value="com.ncl.team20.seatonvalley.data.posts.ModelPost" method="getId" />
+    <pattern value="com.ncl.team20.seatonvalley.data.posts.ModelPost" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.NewsActivityTest" method="clickEventCard_displaysWebView" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.NewsActivityTest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Northeast" method="setLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Northeast" method="getLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Northeast" method="setLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Northeast" method="getLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Northeast" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.OpeningHours" method="setWeekdayText" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.OpeningHours" method="getWeekdayText" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.OpeningHours" method="setOpenNow" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.OpeningHours" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" method="setStatus" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" method="getStatus" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" method="setResults" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" method="setHtmlAttributions" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" method="getHtmlAttributions" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Place" />
+    <pattern value="com.ncl.team20.seatonvalley.data.posts.Post" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.ReportActivityTest" method="childAtPosition" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.ReportActivityTest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setVicinity" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setTypes" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getTypes" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setScope" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getScope" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setReference" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getReference" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setRating" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setPlaceId" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getPlaceId" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setOpeningHours" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setName" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setId" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getId" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setIcon" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="getIcon" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" method="setGeometry" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Result" />
+    <pattern value="com.ncl.team20.seatonvalley.components.mail.SendMail" method="onPostExecute" />
+    <pattern value="com.ncl.team20.seatonvalley.components.mail.SendMail" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Southwest" method="setLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Southwest" method="getLng" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Southwest" method="setLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Southwest" method="getLat" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Southwest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.posts.Title" />
+    <pattern value="com.ncl.team20.seatonvalley.activities.TwitterActivity" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Viewport" method="setSouthwest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Viewport" method="getSouthwest" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Viewport" method="setNortheast" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Viewport" method="getNortheast" />
+    <pattern value="com.ncl.team20.seatonvalley.data.places.Viewport" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../10.Javadoc" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+    <option name="OPTION_LINK_TO_JDK_DOCS" value="true" />
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="5">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="4">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
